@@ -1,6 +1,6 @@
 # [22,27,16,2,18,6] -> Insertion Sort
 
-"""
+
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 1. Aşama =[2,27,16,22,18,6]
 2. Aşama =[2,6,16,22,18,27]
@@ -23,4 +23,3 @@ Avarage Case
 2.Aşama = [2,3,4,8,7,9,5,15,6]
 3.Aşama = [2,3,4,5,7,9,8,15,6]
 4.Aşama = [2,3,4,5,6,9,8,15,7]
-"""
